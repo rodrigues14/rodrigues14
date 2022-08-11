@@ -1,10 +1,13 @@
-# Hello 👋🏻, eu sou o Lucas
+
+
+<h1 align="center">Hello 👋🏻, eu sou o Lucas</h1>
 
 👨‍💻 Front-end... <br>
 📚 Cursando Análise e Desenvolvimento de Sistemas. <br>
 🌱 Atualmente estou estudando Javascript e tenho interesse em React. <br>
 
-## Portfólio
+
+<h2>Portfólio</h2>
 Acesse meu portfólio para saber mais sobre mim <br>
 💻 https://portfolio-lucasrodrigues.netlify.app/ <br>
 obs: Se tiver alguma sugestão, ficarei grato!
