@@ -3,7 +3,6 @@
 <h1 align="center">Hello 👋🏻, eu sou o Lucas</h1>
 
 👨‍💻 Front-end... <br>
-📚 Cursando Análise e Desenvolvimento de Sistemas. <br>
 🌱 Atualmente estou estudando Javascript e tenho interesse em React. <br>
 
 
