@@ -12,7 +12,7 @@
 
 
 👨‍💻 Estudos com foco em Front-end... <br>
-🌱 Atualmente estou estudando Javascript e tenho interesse em React, além disso, estou estudando Java <br>
+🌱 Atualmente estou estudando Javascript e tenho interesse em React, além disso, estou estudando Java e SQL<br>
 💻 Estou em busca de um estágio focado em Desenvolvimento Web
 
 
