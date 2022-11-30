@@ -13,11 +13,6 @@
 🌱 Atualmente estou estudando React, na Alura, além disso, estou estudando Java e SQL<br>
 💻 Estou em busca de um estágio focado em Desenvolvimento de Software
 
-<div style="display: block" align="center">
-  <a href="https://github.com/rodrigues14">
-  <img height="190em" width="350em" src="https://github-readme-stats.vercel.app/api?username=rodrigues14&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="190em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigues14&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 <h2>skills</h2>
 
