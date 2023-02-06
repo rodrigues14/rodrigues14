@@ -18,6 +18,8 @@
      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodrigues14&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigues14&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
+  <br>
+  <img src="https://streak-stats.demolab.com?user=rodrigues14&theme=dark&border_radius=5&locale=pt_BR" alt="rodrigues14" />
 </div>
 
 <h2>skills</h2>
