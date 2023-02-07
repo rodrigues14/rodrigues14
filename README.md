@@ -10,10 +10,10 @@
   <a href = "mailto:lucascontatodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-🚀 Focado em desenvolvimento Front-end
-📚 Cursando Análise e Desenvolvimento de Sistemas na FIAP
-🌱 Atualmente estou estudando React e TypeScript, na Alura   
-💻 Estou em busca de um estágio focado em Desenvolvimento Web
+🚀 Focado em desenvolvimento Front-end  
+📚 Cursando Análise e Desenvolvimento de Sistemas na FIAP  
+🌱 Atualmente estou estudando React e TypeScript, na Alura     
+💻 Estou em busca de um estágio focado em Desenvolvimento Web  
 
 <div align="center">
   <a href="https://github.com/rodrigues14">
