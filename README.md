@@ -14,7 +14,7 @@
   
 🚀 Atualmente focado em desenvolvimento Front-end  
 📚 Cursando o 3º semestre em Análise e Desenvolvimento de Sistemas na FIAP  
-🌱 Atualmente estou estudando React e TypeScript e Java   
+🌱 Atualmente estou estudando React, TypeScript e JavaScript     
 💻 Estou em busca de um estágio focado em Desenvolvimento Web  
 
 <div align="center">
