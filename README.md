@@ -13,9 +13,9 @@
   <br />
   
 🚀 Atualmente focado em desenvolvimento Front-end  
-📚 Cursando o 3º semestre em Análise e Desenvolvimento de Sistemas na FIAP  
-🌱 Atualmente estou estudando React, TypeScript e JavaScript     
-💻 Estou em busca de um estágio focado em Desenvolvimento Web  
+📚 Cursando Análise e Desenvolvimento de Sistemas na FIAP  
+🌱 Atualmente estou estudando React, TypeScript e Java   
+💻 Estou em busca de uma oportunidade como desenvolvedor Front-end   
 
 <div align="center">
   <a href="https://github.com/rodrigues14">
