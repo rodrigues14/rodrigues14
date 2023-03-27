@@ -14,7 +14,7 @@
   
 🚀 Atualmente focado em desenvolvimento Front-end  
 📚 Cursando Análise e Desenvolvimento de Sistemas na FIAP  
-🌱 Atualmente estou estudando React, TypeScript e Java   
+🌱 Atualmente estou estudando React e TypeScript  
 💻 Estou em busca de uma oportunidade como desenvolvedor Front-end   
 
 <div align="center">
