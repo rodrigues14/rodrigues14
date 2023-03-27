@@ -19,9 +19,9 @@
 
 <div align="center">
   <a href="https://github.com/rodrigues14">
-     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodrigues14&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
-     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigues14&theme=dark&hide_border=false&&layout=compact"/>
-    <img height="160em" src="https://streak-stats.demolab.com/?user=rodrigues14&theme=dark" /> 
+     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodrigues14&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
+     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigues14&theme=tokyonight&hide_border=false&&layout=compact"/>
+    <img height="160em" src="https://streak-stats.demolab.com/?user=rodrigues14&theme=tokyonight" /> 
   </a>
 </div>
 
