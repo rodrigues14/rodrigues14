@@ -11,7 +11,7 @@
   
   <br />
   
-🚀 Back-end Java
+🚀 Back-end Java  
 📚 Graduado em Análise e Desenvolvimento de Sistemas na FIAP  
 💻 Estou em busca de uma oportunidade como desenvolvedor Back-end Java  
 
