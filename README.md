@@ -30,7 +30,7 @@
   <img align="center" alt="postgresql" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="postman" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
   <img align="center" alt="GIT" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="junit" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/JUnit/JUnit-original.svg">
+  <img align="center" alt="junit" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg">
   
   
   <img align="center" alt="react" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
