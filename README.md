@@ -11,10 +11,11 @@
   
   <br />
   
-🚀 Desenvolvedor de Software 
-📚 Graduado em Análise e Desenvolvimento de Sistemas na FIAP  
-💻 Auxiliar de TI
+🚀 Desenvolvedor de Software   
+📚 Graduado em Análise e Desenvolvimento de Sistemas pela FIAP    
+💻 Desenvolvimento mobile | Flutter | Dart  
 
+<!-- 
 <div align="center">
   <a href="https://github.com/rodrigues14">
      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodrigues14&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
@@ -42,3 +43,4 @@
   <img align="center" alt="bootstrap" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   
 </div>
+ -->
